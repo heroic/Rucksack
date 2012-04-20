@@ -11,3 +11,7 @@ $('#container').rucksack({
 })
 
 ```
+
+#### Contributors:
+
+1) [gauravsc](http://github.com/gauravsc)
