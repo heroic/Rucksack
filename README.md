@@ -12,6 +12,12 @@ $('#container').rucksack({
 
 ```
 
+#### Example
+
+Here's a working example by @omgmog
+
+http://jsfiddle.net/vXbCY/
+
 #### Contributors:
 
 1) [gauravsc](http://github.com/gauravsc)
