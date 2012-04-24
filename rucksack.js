@@ -1,6 +1,6 @@
 $.fn.rucksack = function(options){
 	options = options || {}
-	var self = this, els = self.children(), b = parseInt(options.width) || 960, cl = options.class || 'rucksack';
+	var self = this, els = self.children(), b = parseInt(options.width,10) || 960, cl = options.class || 'rucksack';
 	function knapsack(a, b){
 		for(var k = 1; k <= a.length; k++)
 			for (var y = 1; y <= b; y++)
